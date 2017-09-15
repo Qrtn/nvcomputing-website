@@ -1,7 +1,8 @@
 body {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Arial, Verdana, sans-serif;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Arimo, Arial, Verdana, sans-serif;
   margin-left: 20px;
   max-width: 700px;
+  -webkit-text-size-adjust: 100%;
 }
 
 body > div {
