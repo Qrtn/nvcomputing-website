@@ -83,3 +83,12 @@ ul {
   border: 1px solid #ddd;
   margin-bottom: 3px;
 }
+
+.announcement {
+  color: darkorange;
+  font-weight: bold;
+}
+
+.slide {
+  height: 200px;
+}
