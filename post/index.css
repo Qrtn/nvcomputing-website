@@ -69,7 +69,6 @@ h1, h2, h3, h4, h5, h6 {
 
 hr {
   border: 1px solid #bbb;
-  margin-bottom: 0;
 }
 
 ul {
@@ -93,18 +92,19 @@ ul {
 .box {
   border: 1px solid #bbb;
   padding: 15px;
+  margin: 10px 0;
   overflow: hidden;
-  margin: 5px 0;
 }
 
 #folder-wrapper {
-  margin: 15px 0;
   padding: 0;
+  margin: 15px 0 10px 0;
   text-align: center;
 }
 
 #folder {
   display: inline-block;
+  vertical-align: top;
   text-align: center;
   margin: 0;
   padding: 5px 10px;
@@ -119,11 +119,9 @@ ul {
 
 #acsl {
   background-color: #e9ffff;
-  margin-bottom: 10px;
 }
 
 #procom {
-  margin-top: 10px;
   background-color: #dcffdc;
 }
 
