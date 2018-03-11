@@ -69,6 +69,7 @@ h1, h2, h3, h4, h5, h6 {
 
 hr {
   border: 1px solid #bbb;
+  margin-bottom: 0;
 }
 
 ul {
@@ -87,6 +88,53 @@ ul {
 .announcement {
   color: darkorange;
   font-weight: bold;
+}
+
+.box {
+  border: 1px solid #bbb;
+  padding: 15px;
+  overflow: hidden;
+  margin: 5px 0;
+}
+
+#folder-wrapper {
+  margin: 15px 0;
+  padding: 0;
+  text-align: center;
+}
+
+#folder {
+  display: inline-block;
+  text-align: center;
+  margin: 0;
+  padding: 5px 10px;
+  background-color: #ffdddd;
+}
+
+#procom-team {
+  float: right;
+  margin: 10px 5px 0 20px;
+  width: 45%;
+}
+
+#acsl {
+  background-color: #e9ffff;
+  margin-bottom: 10px;
+}
+
+#procom {
+  margin-top: 10px;
+  background-color: #dcffdc;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  padding: 8px;
+}
+
+table {
+  margin: 12px 4px 4px 4px;
 }
 
 .slide {
