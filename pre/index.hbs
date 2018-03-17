@@ -18,6 +18,32 @@
       <li>Manage Neuqua&rsquo;s ACSL teams as well as potential local competitions
         nearby.</li>
     </ul>
+
+    <p>
+      <table id="intro">
+        <tr>
+          <td class="title">Co-founders and captains:</td>
+          <td>Jeffrey Tang and Bryan Qiu</td>
+          <td class="email">
+            <a>capt<span style="display:none">nvct</span>@nvcomputing.com</a>
+          </td>
+        </tr>
+        <tr>
+          <td class="title">Sponsor:</td>
+          <td>Mr. Koos</td>
+          <td class="email">
+            <a>joe_koos<span style="display:none">nvct2</span>@ipsd.org</a>
+          </td>
+        </tr>
+      </table>
+
+      <script>
+        var emails = document.querySelectorAll(".email a");
+        for (var i = 0; i < emails.length; ++i) {
+          emails[i].setAttribute("href", "mailto:" + emails[i].innerText);
+        }
+      </script>
+    </p>
   </div>
 
   <hr>

@@ -140,6 +140,18 @@ table {
   margin: 12px 4px 4px 4px;
 }
 
+#intro, #intro td {
+  border: 0;
+  padding: 3px 8px;
+  margin-left: 0;
+}
+
+.title {
+  padding-left: 0 !important;
+  font-weight: bold;
+  text-align: right;
+}
+
 .slide {
   height: 200px;
 }
