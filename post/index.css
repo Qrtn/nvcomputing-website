@@ -116,10 +116,23 @@ ul {
   background-color: #ffdddd;
 }
 
+#allstar-team {
+  display: block;
+  width: 100%;
+}
+
+#allstar-caption {
+  font-size: small;
+}
+
 #procom-team {
   float: right;
   margin: 10px 5px 0 20px;
   width: 45%;
+}
+
+#allstar {
+  background-color: #ffffe0;
 }
 
 #acsl {
