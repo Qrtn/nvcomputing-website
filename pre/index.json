@@ -5,15 +5,15 @@
   },
   "acsl": [
     [
-      { title: "#1 Intermediate", statement: "https://drive.google.com/open?id=1-jxMj-4QLFO7hSPcFWQj9i2o91e3VxLz", codeforces: "http://codeforces.com/gym/219766/problem/B", test: "https://drive.google.com/open?id=0B17dDOWfPSLwS1VDTHZVdDdBRE9sUnFRaFNXdmlVTTVqZERv", available: true },
-      { title: "#2 Intermediate", statement: "https://drive.google.com/open?id=0B17dDOWfPSLwU0Q2aFhTMTJLS25oWUY0b0cxT3VqMG5BSnRv", codeforces: "http://codeforces.com/gym/219932/problem/A", test: "https://drive.google.com/open?id=17UHH0v6I3_FUFhOBQrHbsOHA0nVy2ofc", available: true },
-      { title: "#3 Intermediate", statement: "https://drive.google.com/open?id=0B17dDOWfPSLwbHBYckgtTlR5UVNDX1BBSVpkU2x6Z1liVEZZ", codeforces: "http://codeforces.com/gym/221064/problem/A", test: "https://drive.google.com/open?id=1uysLRIr3yTlghr7J2oFUHELWM8k7Gc0R", available: true },
-      { title: "#4 Intermediate", statement: "", codeforces: "", test: "", available: false },
+      { "title": "#1 Intermediate", "statement": "https://drive.google.com/open?id=1-jxMj-4QLFO7hSPcFWQj9i2o91e3VxLz", "codeforces": "http://codeforces.com/gym/219766/problem/B", "test": "https://drive.google.com/open?id=0B17dDOWfPSLwS1VDTHZVdDdBRE9sUnFRaFNXdmlVTTVqZERv", "available": true },
+      { "title": "#2 Intermediate", "statement": "https://drive.google.com/open?id=0B17dDOWfPSLwU0Q2aFhTMTJLS25oWUY0b0cxT3VqMG5BSnRv", "codeforces": "http://codeforces.com/gym/219932/problem/A", "test": "https://drive.google.com/open?id=17UHH0v6I3_FUFhOBQrHbsOHA0nVy2ofc", "available": true },
+      { "title": "#3 Intermediate", "statement": "https://drive.google.com/open?id=0B17dDOWfPSLwbHBYckgtTlR5UVNDX1BBSVpkU2x6Z1liVEZZ", "codeforces": "http://codeforces.com/gym/221064/problem/A", "test": "https://drive.google.com/open?id=1uysLRIr3yTlghr7J2oFUHELWM8k7Gc0R", "available": true },
+      { "title": "#4 Intermediate", "statement": "https://drive.google.com/open?id=1a5ty9VWTKrrCX8zNZYzHCrh2pLex9lDx", "codeforces": "http://codeforces.com/gym/222543/problem/A", "test": "https://drive.google.com/open?id=1EYdHvGDS7uHNNiRXQGeSZp-yCWul4-KC", "available": true }
     ], [
-      { title: "#1 Senior", statement: "https://drive.google.com/open?id=1JtZPN4zPV3izUAIJe_THOKWUjnjxa116", codeforces: "http://codeforces.com/gym/219766/problem/C", test: "https://drive.google.com/open?id=0B17dDOWfPSLwb1Z0a1g4ZlpIUHpZVnFWWGpyNlVrekNqZlNv", available: true },
-      { title: "#2 Senior", statement: "https://drive.google.com/open?id=0B17dDOWfPSLwQnF5cDB2MWFrMnluUy1LZ1B6STBhajRUeGxj", codeforces: "http://codeforces.com/gym/219932/problem/B", test: "https://drive.google.com/open?id=14TfPkYV6k-Ag7IHP3Sa6PGWSo5x7v6VO", available: true },
-      { title: "#3 Senior", statement: "https://drive.google.com/open?id=0B17dDOWfPSLwS2I5Y0pHdHhuMUhURmxwT1VOM0hrbTJROUo4", codeforces: "http://codeforces.com/gym/221064/problem/B", test: "https://drive.google.com/open?id=1rAJrc8_5OQkmLMfvqZ27sRlXhvdtsMtl", available: true },
-      { title: "#4 Senior", statement: "", codeforces: "", test: "", available: false }
+      { "title": "#1 Senior", "statement": "https://drive.google.com/open?id=1JtZPN4zPV3izUAIJe_THOKWUjnjxa116", "codeforces": "http://codeforces.com/gym/219766/problem/C", "test": "https://drive.google.com/open?id=0B17dDOWfPSLwb1Z0a1g4ZlpIUHpZVnFWWGpyNlVrekNqZlNv", "available": true },
+      { "title": "#2 Senior", "statement": "https://drive.google.com/open?id=0B17dDOWfPSLwQnF5cDB2MWFrMnluUy1LZ1B6STBhajRUeGxj", "codeforces": "http://codeforces.com/gym/219932/problem/B", "test": "https://drive.google.com/open?id=14TfPkYV6k-Ag7IHP3Sa6PGWSo5x7v6VO", "available": true },
+      { "title": "#3 Senior", "statement": "https://drive.google.com/open?id=0B17dDOWfPSLwS2I5Y0pHdHhuMUhURmxwT1VOM0hrbTJROUo4", "codeforces": "http://codeforces.com/gym/221064/problem/B", "test": "https://drive.google.com/open?id=1rAJrc8_5OQkmLMfvqZ27sRlXhvdtsMtl", "available": true },
+      { "title": "#4 Senior", "statement": "https://drive.google.com/open?id=1pUrsE68GwUXw5DBXl_j5eSQC11VLXNqQ", "codeforces": "http://codeforces.com/gym/222543/problem/B", "test": "https://drive.google.com/open?id=1jCi07wqlWm3lTht84Gw3bladl3--nQJ8", "available": true }
     ]
   ]
 }
