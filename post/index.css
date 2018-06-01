@@ -113,7 +113,7 @@ ul {
   text-align: center;
   margin: 0;
   padding: 5px 10px;
-  background-color: #ffdddd;
+  background-color: #eee;
 }
 
 #allstar-team {
@@ -125,6 +125,30 @@ ul {
   font-size: small;
 }
 
+#shirt {
+  background-color: #eee;
+}
+
+#shirtpics {
+  display: flex;
+  flex-direction: 100%;
+  width: 100%;
+  margin-top: 15px;
+}
+
+#shirtpics img {
+  display: block;
+  max-width: 100%;
+}
+
+#shirtpics > div:first-child {
+  margin-right: 5px;
+}
+
+.nolast {
+  margin-bottom: 0;
+}
+
 #procom-team {
   float: right;
   margin: 10px 5px 0 20px;
@@ -132,6 +156,10 @@ ul {
 }
 
 #allstar {
+  background-color: #ffe2d9;
+}
+
+#as-qualify {
   background-color: #ffffe0;
 }
 
